@@ -473,3 +473,7 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
+
+# > Custom
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,cangku.moe
